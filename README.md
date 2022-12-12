@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m @pratyush532
-![image profile render](https://pbs.twimg.com/profile_images/1543878327362273280/e_9RAtta_400x400.jpg "profileimage render")
-- 👀 I’m interested in Ml, 3D art and game developement
+- 👀 I’m interested in Machine Learning, 3D art, game developement and music production
 - 🌱 I’m currently learning Blender, Web Development, GODOT game engine
 # 🎨 My 3D art can be seen here - [@kitsune freya](https://www.instagram.com/kitsunefreya/)
 # 🎸Check out my youtube channel - I put out music  - [@kitsunefreya](https://www.youtube.com/channel/UC6IJhGvBomrxfKVZE42NXog)
